@@ -1,0 +1,5 @@
+code: imageTest
+description: image test
+components:
+  assets:
+    - assets/20/20-descriptor.yaml
